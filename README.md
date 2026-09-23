@@ -2,6 +2,8 @@
 
 > Faqe interaktive surprizë për ditëlindje — balona, muzikë dhe një surprizë e fshehur për një person të veçantë. Krejtësisht në shqip.
 
+![Pamje nga demo](screenshot.png)
+
 **🔴 Demo live:** https://erionnezha.github.io/Happy-Birthday/
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
