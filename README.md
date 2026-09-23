@@ -1,5 +1,7 @@
 # 🎂 Gëzuar Ditëlindjen — Surprizë Kinematografike për Ditëlindje
 
+Created by **Erion Nezha**
+
 > Faqe interaktive surprizë për ditëlindje — balona, muzikë dhe një surprizë e fshehur për një person të veçantë. Krejtësisht në shqip.
 
 ![Pamje nga demo](screenshot.png)
@@ -29,6 +31,8 @@ Copyright © 2026 Erion Nezha. Të gjitha të drejtat e rezervuara. Shih [LICENS
 ---
 
 # 🎂 Happy Birthday — A Cinematic Birthday Surprise
+
+Created by **Erion Nezha**
 
 > An interactive cinematic birthday surprise page — balloons, music and a hidden surprise for someone special. Fully in Albanian.
 
